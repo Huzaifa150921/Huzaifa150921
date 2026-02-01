@@ -1,5 +1,77 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Learning & practicing Advanced DSA (Optimization Techniques)<br>Exploring automation & AI projects<br><br>👯 I’m looking to collaborate on<br>Fullstack web apps<br>Open-source frontend & automation projects<br><br>🤝 I’m looking for help with<br>Advanced DSA optimization techniques<br>Competitive programming strategies<br>Improving automation scripts<br><br>🌱 I’m currently learning<br>Advanced Data Structures & Algorithms<br>Optimization & problem-solving strategies<br>Basics of Artificial Intelligence<br>Modern Frontend Frameworks (React, Vue, GSAP)<br><br>💬 Ask me about<br>React, Vue, GSAP<br>Frontend development best practices<br>DSA fundamentals & learning strategies<br><br>⚡ Fun fact<br>I think I’m funny… sometimes my code disagrees 🤡💻
+<!-- 🔥 ULTRA ANIMATED ABOUT SECTION -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,100:7c3aed&height=220&section=header&text=ABOUT%20ME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=Advanced+DSA+%26+Optimization;Frontend+Engineer+(React+%7C+Vue+%7C+GSAP);Automation+%26+AI+Explorer;Building+Logic+That+Scales;Code+That+Actually+Matters" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-05d97aa4-6a9b-4cfa-a6e4-3e0b7f6f0b40.gif" width="500"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="300">
+
+🔭 **CURRENT FOCUS**  
+Advanced DSA  
+Optimization Techniques  
+Automation & AI
+
+</td>
+<td align="center" width="300">
+
+🌱 **LEARNING**  
+Advanced Algorithms  
+AI Fundamentals  
+Frontend Animations
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="300">
+
+👯 **COLLABORATE ON**  
+Full-Stack Web Apps  
+Frontend Systems  
+Open Source
+
+</td>
+<td align="center" width="300">
+
+🤝 **NEED HELP WITH**  
+Competitive Programming  
+DSA Optimization  
+Performance Thinking
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+💬 **ASK ME ABOUT**  
+React • Vue • GSAP  
+Frontend Architecture  
+DSA Learning Strategy  
+
+⚡ **FUN FACT**  
+I debug faster when the code fears me 😈💻
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:00f5ff&height=120&section=footer"/>
+</p>
+
+<!-- 🔥 END ABOUT SECTION -->
+
 
 
 ## 🌐 Socials:
@@ -15,7 +87,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Huzaifa150921&limit=5&theme=neon&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=Huzaifa150921&icon=4&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Huzaifa150921&icon=6&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
