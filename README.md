@@ -1,76 +1,64 @@
-<!-- 🔥 ULTRA ANIMATED ABOUT SECTION -->
+<!-- 🔥 ULTRA COMPACT ANIMATED ABOUT SECTION -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,100:7c3aed&height=220&section=header&text=ABOUT%20ME&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=700&color=00F5FF&center=true&vCenter=true&width=950&lines=Advanced+DSA+%26+Optimization;Frontend+Engineer+(React+%7C+Vue+%7C+GSAP);Automation+%26+AI+Explorer;Building+Logic+That+Scales;Code+That+Actually+Matters" />
-</p>
+  <!-- Header Capsule -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f5ff,100:7c3aed&height=180&section=header&text=ABOUT%20ME&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649436-05d97aa4-6a9b-4cfa-a6e4-3e0b7f6f0b40.gif" width="500"/>
-</p>
+  <!-- Typing Animation -->
+ <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Web+Application+Developer;Mobile+App+Developer;AI+Developer" style="margin-top:8px;"/>
 
-<table align="center">
-<tr>
-<td align="center" width="300">
 
-🔭 **CURRENT FOCUS**  
-Advanced DSA  
-Optimization Techniques  
-Automation & AI
+  <!-- GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/216649436-05d97aa4-6a9b-4cfa-a6e4-3e0b7f6f0b40.gif" width="400" style="margin-top:8px;"/>
 
-</td>
-<td align="center" width="300">
+  <!-- Info Table -->
+  <table align="center" style="margin-top:12px;">
+  <tr>
+    <td align="center" width="250">
+      🔭 <b>CURRENT FOCUS</b><br>
+      Advanced DSA<br>
+      Optimization Techniques<br>
+      Automation & AI
+    </td>
+    <td align="center" width="250">
+      🌱 <b>LEARNING</b><br>
+      Advanced Algorithms<br>
+      AI Fundamentals<br>
+      Frontend Animations
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="250">
+      👯 <b>COLLABORATE ON</b><br>
+      Full-Stack Web Apps<br>
+      Frontend Systems<br>
+      Open Source
+    </td>
+    <td align="center" width="250">
+      🤝 <b>NEED HELP WITH</b><br>
+      Competitive Programming<br>
+      DSA Optimization<br>
+      Performance Thinking
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding-top:10px;">
+      💬 <b>ASK ME ABOUT</b><br>
+      React • Vue • GSAP<br>
+      Frontend Architecture<br>
+      DSA Learning Strategy<br><br>
+      ⚡ <b>FUN FACT</b><br>
+      I debug faster when the code fears me 😈💻
+    </td>
+  </tr>
+  </table>
 
-🌱 **LEARNING**  
-Advanced Algorithms  
-AI Fundamentals  
-Frontend Animations
+  <!-- Footer Capsule -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:00f5ff&height=100&section=footer" style="margin-top:10px;"/>
 
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="center" width="300">
-
-👯 **COLLABORATE ON**  
-Full-Stack Web Apps  
-Frontend Systems  
-Open Source
-
-</td>
-<td align="center" width="300">
-
-🤝 **NEED HELP WITH**  
-Competitive Programming  
-DSA Optimization  
-Performance Thinking
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-
-💬 **ASK ME ABOUT**  
-React • Vue • GSAP  
-Frontend Architecture  
-DSA Learning Strategy  
-
-⚡ **FUN FACT**  
-I debug faster when the code fears me 😈💻
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,100:00f5ff&height=120&section=footer"/>
-</p>
-
-<!-- 🔥 END ABOUT SECTION -->
 
 
 
