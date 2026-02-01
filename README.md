@@ -1,32 +1,88 @@
 <h1 align="center">Hi 👋, I'm Huzaifa Khan</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan | Frontend & DSA Enthusiast</h3>
 
-- 🔭 I’m currently working on **Learning & practicing Advanced DSA (optimization techniques)**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=00F0FF&center=true&vCenter=true&width=600&lines=Learning+Advanced+DSA+%7C+Frontend+%26+AI+Automation" alt="Typing SVG"/>
+</p>
 
-- 🌱 I’m currently learning **Advanced Data Structures & Algorithms Optimization techniques Automation (scripts, tools) Basics of Artificial Intelligence**
+---
 
-- 👯 I’m looking to collaborate on **Full stack web**
+### 🔭 I’m currently working on
+- Learning & practicing **Advanced DSA (optimization techniques)**
+- Exploring **automation & AI projects**
 
-- 🤝 I’m looking for help with **Advanced DSA optimization, competitive programming strategies**
+### 🌱 I’m currently learning
+- Advanced **Data Structures & Algorithms**
+- **Optimization techniques**
+- **Automation scripts & tools**
+- Basics of **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://huzaifakhan21.netlify.app](https://huzaifakhan21.netlify.app)
+### 👯 I’m looking to collaborate on
+- Full stack web projects
+- Open source **frontend & automation tools**
 
-- 💬 Ask me about **React, Vue, GSAP DSA basics & learning strategies Frontend fundamentals**
+### 🤝 I’m looking for help with
+- Advanced DSA optimization
+- Competitive programming strategies
 
-- 📫 How to reach me **huzaifa309051@gmail.com**
+### 💬 Ask me about
+React, Vue, GSAP, DSA fundamentals & problem-solving strategies, Frontend development
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gx6XT7-EdV0Z-1F_1sGfecYBZ6o27o6T/view?usp=sharing](https://drive.google.com/file/d/1Gx6XT7-EdV0Z-1F_1sGfecYBZ6o27o6T/view?usp=sharing)
+### 📫 How to reach me
+[huzaifa309051@gmail.com](mailto:huzaifa309051@gmail.com)
 
-- ⚡ Fun fact **I think I’m funny… sometimes my code disagrees 🤡💻**
+### 👨‍💻 Portfolio
+[https://huzaifakhan21.netlify.app](https://huzaifakhan21.netlify.app)
+
+### 📄 Resume
+[https://drive.google.com/file/d/1Gx6XT7-EdV0Z-1F_1sGfecYBZ6o27o6T/view?usp=sharing](https://drive.google.com/file/d/1Gx6XT7-EdV0Z-1F_1sGfecYBZ6o27o6T/view?usp=sharing)
+
+### ⚡ Fun fact
+I think I’m funny… sometimes my code disagrees 🤡💻
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/huzaifakhan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifakhan123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/huzaifakhan123" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="30"/></a>
+<a href="https://github.com/Huzaifa150921" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" height="30" width="30"/></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" width="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huzaifa150921&show_icons=true&locale=en&layout=compact" alt="huzaifa150921" /></p>
+<h3 align="left">Languages & Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Huzaifa150921&show_icons=true&locale=en" alt="huzaifa150921" /></p>
+---
+
+<h3 align="left">Projects Showcase:</h3>
+<p align="center">
+  <a href="https://huzaifakhan21.netlify.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa150921&repo=portfolio&theme=radical" alt="Portfolio Repo" height="140"/>
+  </a>
+  <a href="https://github.com/Huzaifa150921/DSA-Practice" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Huzaifa150921&repo=DSA-Practice&theme=radical" alt="DSA Practice Repo" height="140"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Huzaifa150921&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa150921&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Huzaifa150921&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
